@@ -1,7 +1,3 @@
-# DataScience projects
+# Game [PREDICT YOUR NUMBER] 
 
-* [Проект 0. Игра угадай число](https://github.com/nikmeleh/DataScience/tree/main)
-
-* [Проект 1.  ](  )
-
-* [Проект 2.  ](  )
+## what do you need to do?
